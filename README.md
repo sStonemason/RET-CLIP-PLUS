@@ -1,5 +1,5 @@
 # RET-CLIP+: Advancing Retinal Image Understanding through Feature Flow between Pixel-Level Details and Semantic Abstractions
-Advanced version of our previous RET-CLIP([LINK](https://github.com/sStonemason/RET-CLIP))
+Advanced version of our previous RET-CLIP ([LINK](https://github.com/sStonemason/RET-CLIP))
 
 ## Environments
 To start with this project, make sure that your environment meets the requirements below:
